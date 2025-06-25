@@ -1,0 +1,10 @@
+# virtualenv
+.venv/
+
+# secrets and generated data
+.env
+.chroma/
+
+# editor folders
+.vscode/
+.idea/
